@@ -1,0 +1,40 @@
+p {
+    font-size: 1rem;
+}
+
+svg {
+    width: 20px;
+    height: 20px;
+}
+
+.dashboard {
+    background-color: rgb(0, 206, 137);
+}
+
+.header {
+    background-color: aliceblue;
+}
+
+.projects {
+    background-color: rgb(143, 255, 218);
+}
+
+.project {
+    background-color: aliceblue;
+}
+
+.announcements {
+    background-color: rgb(143, 255, 218);
+}
+
+.announcement {
+    background-color: aliceblue;
+}
+
+.trending {
+    background-color: rgb(143, 255, 218);
+}
+
+.user {
+    background-color: aliceblue;
+}
